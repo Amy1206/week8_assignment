@@ -1,0 +1,69 @@
+body{
+    line-height :1.7;
+    color:rgb(68, 67, 67));
+    font-weight:400;
+    font-size;1rem;
+    }
+
+h1,h2,h3,h4,h5,
+.h1,.h2,.h3,.h4,.h5{ color:#000;}
+
+h1,h2,h3,h4,h5,h6{
+    margin-top: 0;
+    margin-bottom: 0.5rem;}
+
+a{text-decoration: none;}
+
+a:hover{text-decoration:darkseagreen;}
+
+.menu{border-bottom: 1.5px solid grey;
+      }
+
+ul{font-family:Georgia, 'Times New Roman', Times, serif;
+    magin-bottom:0;
+    padding-inline-start: 0px;}
+
+.name{
+    text-align: center;
+    font-family: Impact,sans-serif;
+    font-style:italic;
+    font-size: 100px;
+    color:darkgreen;
+}
+.text{
+    padding:5px;
+    border:4px darkgreen;
+    border-style:dotted;
+    background-color: darkseagreen;
+}
+
+.haha{
+    padding:5px;
+    border:5px darkgreen;
+    border-style:double;
+    background-color: white;
+}
+
+.paint{
+    padding:5px;
+    border:4px darkseagreen;
+    border-style:solid;
+    background-color: darkseagreen;
+    text-align: right;
+}
+
+.img-fluid{
+    width: 40%;
+    font-style:italic;
+    text-align:center;
+}
+
+.caption{
+    text-transform:uppercase;
+    font-weight:800;
+    letter-spacing;.2em;
+    font-size: 10px;
+    padding:7px 10px;
+    color: rgb(87, 87, 87);
+    display:inline-block;
+}
